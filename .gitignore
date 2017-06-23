@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.vscode
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# misc
+npm-debug.log
+
+#System Files
+.DS_Store
+Thumbs.db
+
+*.iml
